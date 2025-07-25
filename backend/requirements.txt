@@ -55,3 +55,4 @@ gunicorn
 whitenoise
 psycopg2-binary
 psycopg
+docx2txt
